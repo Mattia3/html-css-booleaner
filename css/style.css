@@ -1,0 +1,75 @@
+
+header{
+    background-image: url(../img/img/pattern.png);
+    width: auto;
+    height: 120px;
+    background-color: #50b4d6;
+}
+
+.booleaner{
+    color: #51b8e6;
+}
+
+.giallo{
+  background-color: yellow;
+}
+
+table{
+  text-align: left;
+  width: 80%;
+}
+
+th{
+    background-color: #03a9f4a8;
+    color: white;
+}
+
+.azzurro{
+    background-color: #03a8f438;
+  }
+
+h4{
+    color: gray;
+}
+
+.viola{
+    background-image: url(../img/monitor.jpg);
+    height: 150px;
+    width: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bianco{
+    color: white;
+    
+}
+
+.rosso{
+    background-image: url(../img/img/graph.jpg);
+    height: 150px;
+    width: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.immagine{
+    width: 200px;
+    margin-top: 60px;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+
+
+
+    
+  
+
+  
+
